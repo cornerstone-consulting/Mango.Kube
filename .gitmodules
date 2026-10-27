@@ -1,0 +1,27 @@
+[submodule "Mango.Services.CouponAPI"]
+	path = Mango.Services.CouponAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.CouponAPI.git
+[submodule "Mango.Services.EmailAPI"]
+	path = Mango.Services.EmailAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.EmailAPI
+[submodule "Mango.Services.OrderAPI"]
+	path = Mango.Services.OrderAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.OrderAPI
+[submodule "Mango.Services.ProductAPI"]
+	path = Mango.Services.ProductAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.ProductAPI
+[submodule "Mango.Services.RewardAPI"]
+	path = Mango.Services.RewardAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.RewardAPI
+[submodule "Mango.Services.ShoppingCartAPI"]
+	path = Mango.Services.ShoppingCartAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.ShoppingCartAPI
+[submodule "Mango.Web"]
+	path = Mango.Web
+	url = https://github.com/cornerstone-consulting/Mango.Web
+[submodule "Mango.MessageBus"]
+	path = Mango.MessageBus
+	url = https://github.com/cornerstone-consulting/Mango.MessageBus
+[submodule "Mango.Services.AuthAPI"]
+	path = Mango.Services.AuthAPI
+	url = https://github.com/cornerstone-consulting/Mango.Services.AuthAPI
